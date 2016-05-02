@@ -53,6 +53,7 @@ class Form extends Controller //class Index
 		
 		Db::table('think_form')
 		->insert(  ['title'=> $_POST['title'] , 'content'=> $_POST['content'] ]  );
+		echo $_POST['content'];
 		
 	}
 	
