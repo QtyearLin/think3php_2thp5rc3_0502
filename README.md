@@ -1,5 +1,16 @@
-ThinkPHP 5.0.0 RC3
 ===============
+Demo made by Aw3
+QQ: 1114148@qq.com
+Wechat: jinsongaw
+Email: terry@grabargain.com
+
+ThinkPHP323 to 5.0.0 RC3
+===============
+Demo made by Aw3
+QQ: 1114148@qq.com
+Wechat: jinsongaw
+Email: terry@grabargain.com
+
 
 [![Downloads](https://img.shields.io/github/downloads/top-think/think/total.svg)](https://github.com/top-think/think/releases)
 [![Releases](https://img.shields.io/github/release/top-think/think.svg)](https://github.com/top-think/think/releases/latest)
